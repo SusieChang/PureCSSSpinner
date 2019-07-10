@@ -4,6 +4,7 @@
 - [loading3 - triple circle](https://codepen.io/susiechang-the-styleful/pen/MMPQpR)
 - [loading4 - zoom bar](https://codepen.io/susiechang-the-styleful/pen/bPmMWg)
 - [loading5 - zoom circle](https://codepen.io/susiechang-the-styleful/pen/ZdVYEL)
+- [loading6 - radar rotation](https://codepen.io/susiechang-the-styleful/pen/OerROP)
 
 
 ---
