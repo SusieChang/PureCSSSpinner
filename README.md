@@ -7,5 +7,6 @@
 - [loading6 - radar rotation](https://codepen.io/susiechang-the-styleful/pen/OerROP)
 - [loading7 - rotation2](https://codepen.io/susiechang-the-styleful/pen/gNqgxv)
 - [loading8 - rotation3](https://codepen.io/susiechang-the-styleful/pen/ZdweLp)
+- [loading9 - rotation4](https://codepen.io/susiechang-the-styleful/pen/LKqyGa)
 ---
 inspired by [css-loaders](https://projects.lukehaas.me/css-loaders/)
