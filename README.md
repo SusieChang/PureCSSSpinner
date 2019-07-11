@@ -9,6 +9,7 @@
 - [loading8 - rotation3](https://codepen.io/susiechang-the-styleful/pen/ZdweLp)
 - [loading9 - rotation4](https://codepen.io/susiechang-the-styleful/pen/LKqyGa)
 - [loading10 - rotation5](https://codepen.io/susiechang-the-styleful/pen/PrVgbX)
-- [loading11 - rotation6](https://codepen.io/susiechang-the-styleful/pen/qzgzMa)
+- [loading11 - menu/close](https://codepen.io/susiechang-the-styleful/pen/qzgzMa)
+- [loading12 - menu/more/close/back](https://codepen.io/susiechang-the-styleful/pen/xoBKdQ)
 ---
 inspired by [css-loaders](https://projects.lukehaas.me/css-loaders/)
